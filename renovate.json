@@ -1,0 +1,9 @@
+{
+    "extends": ["config:base"],
+    "packageRules": [
+      {
+        "matchPackageNames": ["axios", "express", "debug", "follow-redirects"],
+        "labels": ["security"]
+      }
+    ]
+  }
