@@ -6,7 +6,7 @@
     "packageManager": "yarn@3.1.1",
     "dependencies": {
       "express": "4.13.4",
-      "axios": "0.19.2",
+      "axios": "0.30.2",
       "moment": "2.29.1",
       "ms": "2.0.0"
     }
